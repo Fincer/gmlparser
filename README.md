@@ -4,6 +4,10 @@ Simple JPEG2000 GML data parser / extractor, _without additional tools such as G
 
 ## Requirements
 
+- Python 3 (Arch Linux: `python`)
+
+- Python 3 [XML-to-dict](https://github.com/martinblech/xmltodict) (Arch Linux: `python-lxml`)
+
 ## Usage
 
 File: [gmlparser.py](data/gmlparser.py)
