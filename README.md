@@ -1,6 +1,6 @@
 # GML data parser for JPEG2000 files
 
-Simple JPEG2000 GML data parser / extractor, _without additional tools such as GDAL_. Just pure Python 3.
+Simple JPEG2000 GML data parser / extractor, _without additional tools such as [GDAL](https://en.wikipedia.org/wiki/GDAL) (Geospatial Data Abstraction Library)_. Just pure Python 3.
 
 ## Requirements
 
